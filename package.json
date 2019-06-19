@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A Google Chrome Extension",
+  "main": "tab_page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobslegend61/newtab.git"
+  },
+  "author": "Alabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobslegend61/newtab/issues"
+  },
+  "homepage": "https://github.com/Bobslegend61/newtab#readme"
+}
